@@ -1,15 +1,15 @@
-# Data-Science-Buildings-And-Infrastructure - WIP
+# Data-Science-Buildings-And-Infrastructure - WIP 🎁
 #### What does data science have to do with buildings and infrastructure?
 Before we begin to examine how data science can help the building and infrastructure industry (also known as the architecture, engineering, and construction industry), we first need to understand what data science is. 
 
-#### What is Data Science?
+#### What is Data Science? 🧑‍🔬
 
 According to IBM, a multinational technology company 
 
 # "Data science combines the scientific method, math and statistics, specialized programming, advanced analytics, AI, and even storytelling to uncover and explain the business insights buried in data." - IBM <br>
 It includes all the data science lifecycle steps, as listed below, and is often used to extract organisational insights from large amounts of data. There are many uses for data science, across every industry. Within the building and infrastructure industry, data science can be used to understand human behaviour and needs, so that corporations can develop better products. It can also be used to enhance IOT (Internet of Things) devices in homes and in the public realm. The benefits of data science to the buildings and infrastructure industry are huge and the possibilities are endless. This repository will contain some projects that I am working on over the last few years. You are welcome to contribute to this project. 
 
-#### Data Science Lifecycle:
+#### Data Science Lifecycle: :cy
 * Define a business goal by using subject matter expertise.
 * Collect, clean, and manipulate your data.
 * Choose a machine learning algorithm, and then train and test your model.
