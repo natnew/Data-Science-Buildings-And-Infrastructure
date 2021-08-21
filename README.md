@@ -1,4 +1,4 @@
-# Data-Science-Buildings-And-Infrastructure - WIP 🎁
+# Data-Science-Buildings-And-Infrastructure  🎁
 #### What does data science have to do with buildings and infrastructure?
 Before we begin to examine how data science can help the building and infrastructure industry (also known as the architecture, engineering, and construction industry), we first need to understand what data science is. 
 
